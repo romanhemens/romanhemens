@@ -10,7 +10,7 @@ I currently studying Business Informatics with a strong focus on AI and data-dri
 |-------------------------|-----------------------------------------------------|
 | Programming             | Python, SQL, JavaScript                             |
 | Data Science            | Pandas, NumPy, Scikit-learn, Matplotlib, SimPy      |
-| Artificial Intelligence | Tensorflow, PyTorch, RAG, HuggingFace               |
+| Artificial Intelligence | Tensorflow, PyTorch, RAG, HuggingFace, LangChain    |
 | Web Dev                 | HTML/CSS, Git                                       |
 | Business Tools          | Excel, BPMN                                         |
 
