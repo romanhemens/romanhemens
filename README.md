@@ -42,7 +42,7 @@ Although I'm early in my career, I've gained valuable experience through univers
 -->
 ## 🏅 Highlights
 
-- ✔️ Completed IBM RAG course
+- ✔️ Completed IBM RAG course => Follow-Up project of a mini-rag research assitant
 - 🥇 Ranked top 1% in uni code of advent 2024
 - 🚀 Presented a prototype at a student startup event (a social robot companion)
 
