@@ -1,4 +1,4 @@
-## Hi there, T'm Roman 👋
+## Hi there, I'm Roman 👋
 
 I currently studying Business Informatics with a strong focus on AI and data-driven technologies. I'm seeking opportunities to apply machine learning in solving real-world business challenges.
 
