@@ -35,7 +35,7 @@ Although I'm early in my career, I've gained valuable experience through univers
 ## 📌 Favorite Projects
 
 - 📈 **BizInsAIght:** Analyzing and visualizing financial data with AI-powered insights in an intuitive dashboard.
-- 🏫 **Mini-RAG Research assistant:**: Answering questions about uploaded research paper.
+- 🏫 **Mini-RAG Research assistant:** Answering questions about uploaded research paper.
 
 ---
 ## 🏅 Highlights
