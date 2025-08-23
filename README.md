@@ -32,14 +32,12 @@ Although I'm early in my career, I've gained valuable experience through univers
 
 ---
 
-<!---## 📌 Favorite Projects)
+## 📌 Favorite Projects)
 
-<> (- 💡 **AI Price Predictor** – Scrapes and learns from product data to estimate prices. ) 
-- 🧾 **Budget Buddy** – A personal finance tracker with charts and daily insights.  
-- 📈 **KPI Dashboard** – Business metrics visualized in one slick dashboard.
+- 📈 **BizInsAIght:** Analyzing and visualizing financial data with AI-powered insights in an intuitive dashboard.
+- 🏫 **Mini-RAG Research assistant:**: Answering questions about uploaded research paper.
 
 ---
--->
 ## 🏅 Highlights
 
 - ✔️ Completed IBM RAG course => Follow-Up project of a mini-rag research assitant
