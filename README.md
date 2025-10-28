@@ -39,6 +39,7 @@ Although I'm early in my career, I've gained valuable experience through univers
 - 🧠 **ECoT-reasoning-pipeline:** Generating reasoning data for VLAs as part of my contribution to the research at VCAI group at University of Kiel
 
 ---
+
 ## 🏅 Highlights
 
 - ✔️ Completed IBM RAG course => Follow-Up project of a mini-rag research assitant
