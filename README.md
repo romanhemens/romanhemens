@@ -27,8 +27,8 @@ Although I'm early in my career, I've gained valuable experience through univers
 
 ## 🌱 Current Focus
 
-- Exploring working on a research project to leverage RL and CoT in the area of Vision-Language-Action-Models
 - Building small AI projects to sharpen my dev skills
+- Researching the usage and leverage of agentic VLM to enhance Social Robotic Navigation as main topic of my master thesis
 
 ---
 
@@ -36,6 +36,7 @@ Although I'm early in my career, I've gained valuable experience through univers
 
 - 📈 **BizInsAIght:** Analyzing and visualizing financial data with AI-powered insights in an intuitive dashboard.
 - 🏫 **Mini-RAG Research assistant:** Answering questions about uploaded research paper.
+- 🧠 **ECoT-reasoning-pipeline:** Generating reasoning data for VLAs as part of my contribution to the research at VCAI group at University of Kiel
 
 ---
 ## 🏅 Highlights
