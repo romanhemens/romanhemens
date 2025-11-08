@@ -34,7 +34,7 @@ Although I'm early in my career, I've gained valuable experience through univers
 
 ## 📌 Favorite Projects
 
-- 📈 **Churn-XGBoost:** End-to-end churn prediction with baseline & XGBoost models, hyperparameter tuning, and SHAP interpretation.
+- 🎰 **Churn-XGBoost:** End-to-end churn prediction with baseline & XGBoost models, hyperparameter tuning, and SHAP interpretation.
 - 🧠 **ECoT-reasoning-pipeline:** Generating reasoning data for VLAs as part of my contribution to the research at VCAI group at University of Kiel.
 - 📈 **BizInsAIght:** Analyzing and visualizing financial data with AI-powered insights in an intuitive dashboard.
 - 🏫 **Mini-RAG Research assistant:** Answering questions about uploaded research paper.
